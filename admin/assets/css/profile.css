@@ -1,0 +1,48 @@
+/ Start Profile /
+.etu-profile
+{
+    
+}
+.etu-profile .img-cover
+{
+    text-align: center;
+    background: #51be78;
+    position: relative;
+    border-radius: 0 0 20px 20px;
+}
+.etu-profile .img-cover img
+{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 10px solid #51be78;
+    position: relative;
+    top: 82px;
+}
+.etu-profile .username-box
+{
+    border-bottom: 3px solid #51be78;
+    / text-align: end; /
+    width: 23%;
+    position: relative;
+  
+    padding-left: 46px;
+    border-radius: 12px;
+}
+.etu-profile .username-box .username
+{
+    color: #41955f;
+    letter-spacing: 1px;
+}
+
+.etu-profile .info
+{
+    width: 50%;
+    margin: 60px auto;
+}
+.etu-profile .info i
+{
+    margin-right: 20px;
+    color: #51be78;;
+}
+/ End Profile /
